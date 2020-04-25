@@ -1,2 +1,2 @@
-# pixiw.js
-A pixi.js wrapper that adds some aditional custom methods.
+# expixi.js
+A pixi.js extension/wrapper with some aditional custom methods.
